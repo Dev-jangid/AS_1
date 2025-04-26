@@ -1,7 +1,5 @@
 # AI Agent-based Deep Research System
 
-A sophisticated research system that combines web crawling with advanced AI analysis using Groq's fast inference capabilities.
-
 ## Features
 
 - Dual-agent architecture (Research Agent and Drafting Agent)
@@ -23,13 +21,7 @@ A sophisticated research system that combines web crawling with advanced AI anal
    TAVILY_API_KEY=
    ```
 
-
 ## Usage
-
-Run the research system:
-```bash
-python research_system.py
-```
 
 The system will:
 1. Gather research using Tavily search
@@ -42,12 +34,3 @@ The system will:
 - **Drafting Agent**: Synthesizes information and creates final responses
 - **LangGraph Workflow**: Orchestrates the research process
 
-## Requirements
-
-- Python 3.8+
-- Dependencies listed in requirements.txt
-- API keys for Groq and Tavily
-
-## License
-
-MIT License 
