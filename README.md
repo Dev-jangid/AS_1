@@ -19,13 +19,10 @@ A sophisticated research system that combines web crawling with advanced AI anal
 
 2. Create a `.env` file with your API keys:
    ```
-   GROQ_API_KEY=your_groq_api_key_here
-   TAVILY_API_KEY=your_tavily_api_key_here
+   GROQ_API_KEY=
+   TAVILY_API_KEY=
    ```
 
-3. Get your API keys:
-   - Groq API key: Sign up at [Groq](https://console.groq.com/)
-   - Tavily API key: Sign up at [Tavily](https://tavily.com/)
 
 ## Usage
 
